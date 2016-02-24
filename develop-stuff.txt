@@ -1,1 +1,5 @@
 här kommer lite utvecklingsgrejer som ska in i master när allt fungerar
+Vi jobbar på och lägger till
+1. Att göra
+2. Göra mera
+3. Göra mest
